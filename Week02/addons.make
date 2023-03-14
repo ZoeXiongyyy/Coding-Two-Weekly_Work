@@ -1,0 +1,7 @@
+ofxGui
+ofxMaxim
+ofxOpenCv
+ofxOsc
+ofxSvg
+ofxThreadedImageLoader
+ofxVectorGraphics
