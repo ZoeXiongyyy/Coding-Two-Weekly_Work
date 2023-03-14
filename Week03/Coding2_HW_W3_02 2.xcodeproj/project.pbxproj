@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		C8DD546829B0E2AD006E7C8A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C8DD546329B0E2AD006E7C8A /* Coding2_HW_W3_02.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E4B69B5B0A3A1756003C02F2;
+			remoteInfo = Coding2_HW_W3_02;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C8DD545B29B0E2AD006E7C8A /* openFrameworks-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "openFrameworks-Info.plist"; sourceTree = "<group>"; };
+		C8DD545C29B0E2AD006E7C8A /* addons.make */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = addons.make; sourceTree = "<group>"; };
+		C8DD545D29B0E2AD006E7C8A /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = .DS_Store; sourceTree = "<group>"; };
+		C8DD545E29B0E2AD006E7C8A /* bin */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bin; sourceTree = "<group>"; };
+		C8DD545F29B0E2AD006E7C8A /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		C8DD546029B0E2AD006E7C8A /* config.make */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = config.make; sourceTree = "<group>"; };
+		C8DD546129B0E2AD006E7C8A /* of.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = of.entitlements; sourceTree = "<group>"; };
+		C8DD546229B0E2AD006E7C8A /* Project.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Project.xcconfig; sourceTree = "<group>"; };
+		C8DD546329B0E2AD006E7C8A /* Coding2_HW_W3_02.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Coding2_HW_W3_02.xcodeproj; sourceTree = "<group>"; };
+		C8DD546629B0E2AD006E7C8A /* src */ = {isa = PBXFileReference; lastKnownFileType = folder; path = src; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C8DD545529B0E2AD006E7C8A = {
+			isa = PBXGroup;
+			children = (
+				C8DD545B29B0E2AD006E7C8A /* openFrameworks-Info.plist */,
+				C8DD545C29B0E2AD006E7C8A /* addons.make */,
+				C8DD545D29B0E2AD006E7C8A /* .DS_Store */,
+				C8DD545E29B0E2AD006E7C8A /* bin */,
+				C8DD545F29B0E2AD006E7C8A /* Makefile */,
+				C8DD546029B0E2AD006E7C8A /* config.make */,
+				C8DD546129B0E2AD006E7C8A /* of.entitlements */,
+				C8DD546229B0E2AD006E7C8A /* Project.xcconfig */,
+				C8DD546329B0E2AD006E7C8A /* Coding2_HW_W3_02.xcodeproj */,
+				C8DD546629B0E2AD006E7C8A /* src */,
+			);
+			sourceTree = "<group>";
+		};
+		C8DD546429B0E2AD006E7C8A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C8DD546929B0E2AD006E7C8A /* Coding2_HW_W3_02Debug.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		C8DD545A29B0E2AD006E7C8A /* Coding2_HW_W3_02 */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = C8DD546A29B0E2AD006E7C8A /* Build configuration list for PBXLegacyTarget "Coding2_HW_W3_02" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/zoe/Desktop/Coding two/OpenFramwork_File/of_v20230118_osx_release/apps/myApps/Coding2_HW_W3_02";
+			dependencies = (
+			);
+			name = Coding2_HW_W3_02;
+			passBuildSettingsInEnvironment = 1;
+			productName = Coding2_HW_W3_02;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		C8DD545629B0E2AD006E7C8A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+			};
+			buildConfigurationList = C8DD545929B0E2AD006E7C8A /* Build configuration list for PBXProject "Coding2_HW_W3_02 2" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C8DD545529B0E2AD006E7C8A;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = C8DD546429B0E2AD006E7C8A /* Products */;
+					ProjectRef = C8DD546329B0E2AD006E7C8A /* Coding2_HW_W3_02.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				C8DD545A29B0E2AD006E7C8A /* Coding2_HW_W3_02 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		C8DD546929B0E2AD006E7C8A /* Coding2_HW_W3_02Debug.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = Coding2_HW_W3_02Debug.app;
+			remoteRef = C8DD546829B0E2AD006E7C8A /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin XCBuildConfiguration section */
+		C8DD545729B0E2AD006E7C8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		C8DD545829B0E2AD006E7C8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		C8DD546B29B0E2AD006E7C8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = Coding2_HW_W3_02;
+			};
+			name = Debug;
+		};
+		C8DD546C29B0E2AD006E7C8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = Coding2_HW_W3_02;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C8DD545929B0E2AD006E7C8A /* Build configuration list for PBXProject "Coding2_HW_W3_02 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8DD545729B0E2AD006E7C8A /* Debug */,
+				C8DD545829B0E2AD006E7C8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C8DD546A29B0E2AD006E7C8A /* Build configuration list for PBXLegacyTarget "Coding2_HW_W3_02" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8DD546B29B0E2AD006E7C8A /* Debug */,
+				C8DD546C29B0E2AD006E7C8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C8DD545629B0E2AD006E7C8A /* Project object */;
+}
